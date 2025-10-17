@@ -28,7 +28,6 @@ Semua proyek di sini bertujuan untuk latihan dasar-dasar HTML serta penerapan ko
 
 **Nama:** Muhammad Rizq Maulana  
 **Tujuan:** Mengasah kemampuan dalam pembuatan web statis menggunakan HTML  
-**Kontak:** (opsional: bisa isi email/github link)
 
 ---
 
@@ -39,11 +38,7 @@ Semua proyek di sini bertujuan untuk latihan dasar-dasar HTML serta penerapan ko
 
 ---
 
-## 🧩 Lisensi
 
-Proyek ini bersifat **terbuka (Open Source)** dan dapat digunakan untuk keperluan pembelajaran.
-
----
 
 ### 🌐 “Belajar web dimulai dari satu tag HTML sederhana.”
 
